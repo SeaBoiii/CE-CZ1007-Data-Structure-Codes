@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551234959 source:c:\users\aleem\downloads\data structure\1.11 computeseries\main.c
+	<stdio.h>
+	<stdlib.h>
+

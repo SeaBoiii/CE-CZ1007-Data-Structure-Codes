@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1552997942 source:c:\users\aleem\downloads\data structure\lab 9.3\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

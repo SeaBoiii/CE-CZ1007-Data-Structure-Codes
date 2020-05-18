@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553217643 source:c:\users\aleem\downloads\data structure\lab 9.1 insertremove linkedlist\main.c
+	"stdlib.h"
+	"stdio.h"
+

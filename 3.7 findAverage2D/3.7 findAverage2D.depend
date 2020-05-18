@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551259069 source:c:\users\aleem\downloads\data structure\3.7 findaverage2d\main.c
+	<stdio.h>
+	<stdlib.h>
+

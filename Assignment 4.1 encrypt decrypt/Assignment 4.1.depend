@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550140085 source:c:\users\aleem\downloads\data structure\assignment 4.1\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+

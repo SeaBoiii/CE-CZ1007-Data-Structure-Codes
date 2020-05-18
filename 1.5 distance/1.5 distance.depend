@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551182101 source:c:\users\aleem\downloads\data structure\1.5 distance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

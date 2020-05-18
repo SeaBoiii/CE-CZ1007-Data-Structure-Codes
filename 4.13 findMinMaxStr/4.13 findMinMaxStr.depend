@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551338182 source:c:\users\aleem\downloads\data structure\4.13 findminmaxstr\main.c
+	<stdio.h>
+	<string.h>
+

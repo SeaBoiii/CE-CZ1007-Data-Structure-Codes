@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551182523 source:c:\users\aleem\downloads\data structure\1.6 linearsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

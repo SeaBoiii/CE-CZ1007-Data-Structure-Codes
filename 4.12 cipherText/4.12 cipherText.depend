@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551325609 source:c:\users\aleem\downloads\data structure\4.12 ciphertext\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

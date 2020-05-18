@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549177522 source:c:\users\aleem\downloads\data structure\lab4.2\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551592657 source:c:\users\aleem\downloads\data structure\6.7 phonebook\main.c
+	<stdio.h>
+	<string.h>
+

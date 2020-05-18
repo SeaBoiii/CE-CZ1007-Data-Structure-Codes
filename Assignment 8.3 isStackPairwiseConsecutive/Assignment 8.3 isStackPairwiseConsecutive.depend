@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554044695 source:c:\users\aleem\downloads\data structure\assignment 8.3 isstackpairwiseconsecutive\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
